@@ -90,7 +90,7 @@
                         <div class="dropdown-item-desc">
                             <b>Kusnaedi</b>
                             <p>Hello, Bro!</p>
-                            <div class="time">10 Hours Ago</div>
+                            <div class="time">10 Hour Ago</div>
                         </div>
                     </a>
                     <a href="#" class="dropdown-item dropdown-item-unread">
